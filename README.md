@@ -36,7 +36,7 @@ The Jupyter notebooks used to run the CellCharter pipeline are included in this 
 
 ### `napari-sparrow`
 
-The napari-spparow repository contains a large number of source code files.
+The napari-sparrow repository contains a large number of source code files.
 
 Therefore, only the Jupyter Notebook (.ipynb) files used for data preprocessing and analysis in this dissertation are included in this folder, rather than the complete source code from the original repository.
 
@@ -71,4 +71,4 @@ The final analysis notebooks include:
 
 ## Note
 
-The original source code for SPParOW, BANKSY, SpaceFlow, and CellCharter was obtained from their respective GitHub repositories. The analysis notebooks included in this repository were adapted for the datasets and research objectives of this master's dissertation.
+The original source code for SPArrOW, BANKSY, SpaceFlow, and CellCharter was obtained from their respective GitHub repositories. The analysis notebooks included in this repository were adapted for the datasets and research objectives of this master's dissertation.
