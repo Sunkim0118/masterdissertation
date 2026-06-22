@@ -34,7 +34,7 @@ This folder contains the CellCharter source code obtained from the original Cell
 
 The Jupyter notebooks used to run the CellCharter pipeline are included in this folder.
 
-### 'napari-sparrow'
+### `napari-sparrow`
 
 The napari-spparow repository contains a large number of source code files.
 
