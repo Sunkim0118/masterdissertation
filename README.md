@@ -9,6 +9,7 @@ masterdissertation/
 ├── banksy_py/
 ├── SpaceFlow/
 ├── cellcharter/
+├── napari-sparrow/
 ├── Final_analysis_A1-1/
 └── Final_analysis_A1-2/
 ```
@@ -33,7 +34,7 @@ This folder contains the CellCharter source code obtained from the original Cell
 
 The Jupyter notebooks used to run the CellCharter pipeline are included in this folder.
 
-### 'napari-spparow'
+### 'napari-sparrow'
 
 The napari-spparow repository contains a large number of source code files.
 
